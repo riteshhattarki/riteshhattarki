@@ -1,53 +1,52 @@
-# Hi there 👋, I'm Ritesh Hattarki
+# Hi, I'm Ritesh Hattarki
 
-🎓 **Computer Science student at the University of Florida **, with a strong interest in **cybersecurity and digital forensics
-🔐 Currently exploring **DFIR (Digital Forensics & Incident Response)** and **cybersecurity positions/internshipss**while strengthening my programming foundations in **C++ and Python**.  
-💡 Passionate about applying classroom knowledge to real-world security challenges, contributing to open-source, and building hands-on projects.  
+I'm a Computer Science student at the University of Florida, graduating in May 2028. I'm interested in software engineering, cybersecurity, and AI.
 
----
+I enjoy building applications, learning new technologies, and working with others to solve real-world problems. I've gained hands-on experience through internships, hackathons, personal projects, and coursework.
 
-## 🚀 Featured Projects
-- 🔎 [**PhishGuard**](https://github.com/riteshhattarki/PhishGuard)  
-  *AI-powered phishing email detector* using TF-IDF + ML baseline with a modular pipeline in **Python**.  
-  > Built to classify emails as phishing or legitimate, with extendable ML modules for experimentation.
+## Projects
 
-- 🏋️ [**OSC Workout App**](https://github.com/riteshhattarki/OSC_Workout_App) *(Team Project, UF Open Source Club)*  
-  Offline-first **ReactJS fitness tracker** with state management and local storage support.  
-  > Designed for seamless offline usage, dynamic workout tracking, and team collaboration.
+**FinSight | ShellHacks 2026**
+- Built a financial analysis application with my team for the Blackstone track at ShellHacks 2026.
+- Worked on analyzing financial data and providing AI-generated insights to help users better understand their investments.
 
-- 🛍️ [**VarietyShoppingHour**](https://github.com/riteshhattarki/VarietyShoppingHour)  
-  Forked project in **JavaScript** exploring e-commerce and shopping app UI components.
+**Dynasty Drafters | Full-Stack Team Project**
+- Developed a fantasy basketball platform using React, Node.js, Express, and MongoDB.
+- Implemented features including user authentication, real-time snake drafts, league management, and NBA player statistics.
 
----
+**[PhishGuard](https://github.com/riteshhattarki/PhishGuard)**
+- Built a phishing email detection tool using Python and machine learning.
+- Used natural language processing to classify emails as phishing or legitimate.
 
-## 🛠️ Skills & Tools
-**Languages:**  
-- Python • C++ • JavaScript • SQL • Bash • PowerShell  
+**[OSC Workout App](https://github.com/riteshhattarki/OSC_Workout_App) | UF Open Source Club**
+- Collaborated with a team to develop a fitness tracking application using React.
+- Worked on workout tracking features, state management, and offline functionality.
 
-**Cybersecurity & Forensics:**  
-- Wireshark • Nmap • tcpdump • Metasploit • John the Ripper • FTK Imager  
+## Technical Skills
 
-**Frameworks & Tools:**  
-- ReactJS • Node.js • MongoDB • Git/GitHub • Postman  
+**Languages:** Python, C++, Java, JavaScript, SQL, Bash
 
-**Certifications & Training:**  
-- 🎓 Google Cybersecurity Professional Certificate  
-- 📚 Preparing for **CompTIA Security+ (SY0-701)**
-- TryHackMe Cyber Security 101 certificate path
+**Frameworks & Technologies:** React, Node.js, Express, MongoDB, REST APIs, WebSockets
 
----
+**Developer Tools:** Git, GitHub, VS Code, Postman, Linux
 
-## 📈 GitHub Stats
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshhattarki&show_icons=true&theme=radical)  
+**Cybersecurity Tools:** Wireshark, Nmap, Burp Suite, Nessus, tcpdump, Metasploit
+
+## Certifications
+
+- CompTIA Security+ (SY0-701)
+- Google Cybersecurity Professional Certificate
+- TryHackMe Cyber Security 101
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshhattarki&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshhattarki&layout=compact&theme=radical)
 
----
+## Connect With Me
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/riteshhattarki)  
-- 📝 [Portfolio / Projects (coming soon!)]()  
-- ✉️ Email: riteshhattarki@example.com  
+- [LinkedIn](https://www.linkedin.com/in/riteshhattarki)
+- [GitHub](https://github.com/riteshhattarki)
 
----
-
-⭐️ *Always open to learning, collaborating, and contributing to projects that make an impact in **cybersecurity and technology.***
+I'm always interested in learning new things, working on interesting projects, and connecting with other developers.
