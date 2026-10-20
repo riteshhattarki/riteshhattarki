@@ -1,6 +1,6 @@
 # Hi, I'm Ritesh Hattarki
 
-I'm a Computer Science student at the University of Florida, graduating in May 2028. I'm interested in software engineering, cybersecurity, and AI.
+I'm a Computer Science student at the University of Florida, graduating in May 2028. I'm interested in software engineering, cybersecurity, and AI.  Check out my work at https://riteshhattarki.github.io/
 
 I enjoy building applications, learning new technologies, and working with others to solve real-world problems. I've gained hands-on experience through internships, hackathons, personal projects, and coursework.
 
